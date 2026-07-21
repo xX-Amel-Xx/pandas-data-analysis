@@ -6,6 +6,7 @@ Tecnologias utilizadas
 * VsCode
   
 =======Exercícios=======
+
 __Exercício 1 - Visualizando os dados__
 
 Exibir o DataFrame completo.
