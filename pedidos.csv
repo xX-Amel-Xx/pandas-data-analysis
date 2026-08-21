@@ -1,0 +1,16 @@
+﻿ID_Pedido,ID_Funcionario,Produto,Valor
+101,1,Notebook,3500.0
+102,2,Mouse,120.0
+103,3,Teclado,180.0
+104,1,Monitor,950.0
+105,5,Headset,250.0
+106,7,Notebook,4200.0
+107,8,Mouse,130.0
+108,10,Teclado,200.0
+109,12,Monitor,1100.0
+110,14,Webcam,300.0
+111,16,Notebook,3800.0
+112,17,Headset,280.0
+113,18,Mouse,150.0
+114,19,Monitor,980.0
+115,20,Teclado,210.0
